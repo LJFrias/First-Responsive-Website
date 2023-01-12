@@ -17,6 +17,11 @@ main > div > p {
     font-size: 150%;
 }
 
+.header-two {
+    display: flex;
+    align-items: flex-start;
+}
+
 /* Bars */
 
 .bar {
